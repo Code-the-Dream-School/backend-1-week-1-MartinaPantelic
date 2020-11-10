@@ -17,7 +17,7 @@ SELECT * FROM OrderDetails WHERE ProductID = 51 AND Quantity > 10;
 corresponding to rows from the Supplier and Category tables.  Paste your three SQL statements below.
 
 
-INSERT INTO products VALUES (NULL, "Kajmak", 2, 2, "2 kg", 55.55),
+INSERT INTO products VALUES (NULL, "Kajmakcic", 2, 2, "2 kg", 55.55),
 							(NULL, "Pistaccios", 1, 1, "5 kg", 80.00),
 							(NULL, "Ajvar", 3, 3, "1 kg", 150.45);
 
